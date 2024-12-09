@@ -1,0 +1,21 @@
+body{
+    background: rgb(56,75,112);
+    background: linear-gradient(180deg, rgba(56,75,112,0.9457202505219207) 0%, rgb(160, 194, 209) 33%, rgba(252,250,238,1) 66%, rgba(184, 0, 31, 0.441) 100%); /* Comentarios en css*/
+    font-family:'Nunito', sans-serif;
+}
+
+.OneDirection{
+    width: 350px;
+    border-radius: 10px;
+}
+
+.xfactor{
+    width: 300px;
+    border-radius: 50px;
+}
+
+.navbar{
+    background-color: azure;
+    border-radius: 5px;
+    
+}
